@@ -9,7 +9,7 @@
 // Geistiges Eigentum von Th.Kattanek           //
 //                                              //
 // Letzte Änderung am 06.09.2019                //
-//                                  //
+//                                              //
 //                                              //
 //////////////////////////////////////////////////
 
